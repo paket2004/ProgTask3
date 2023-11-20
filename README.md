@@ -6,7 +6,7 @@ Given the supply and demand constraints, along with the costs associated with tr
 Python 3.x
 # Methods
 - North-West Corner Method.
-- Algorithm: Start in the top-left corner of the transportation matrix and iteratively allocate the minimum of supply and demand until all cells are filled.
+  Algorithm: Start in the top-left corner of the transportation matrix and iteratively allocate the minimum of supply and demand until all cells are filled.
 - Vogel's Approximation Method.
 - Algorithm: Calculate penalties for each row and column, select the cell with the highest penalty, and allocate the minimum of supply and demand. Update penalties and repeat until all cells are filled.
 - Russell's Approximation Method.
