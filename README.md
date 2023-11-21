@@ -3,7 +3,7 @@ This project provides a Python implementation of three popular methods for solvi
 # Problem Statement
 Given the supply and demand constraints, along with the costs associated with transporting goods between sources and destinations, the goal is to find the optimal transportation plan that minimizes the total cost.
 # Prerequisites
-Python 3.x
+Python 3.9 +
 # Methods
 - North-West Corner Method. Algorithm: Start in the top-left corner of the transportation matrix and iteratively allocate the minimum of supply and demand until all cells are filled.
 - Vogel's Approximation Method.
