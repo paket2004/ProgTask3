@@ -26,7 +26,8 @@ Where:
 - `s` is the the supply from the source A to destination B.
 - `d` is the demand from the source A to destination B.
 # Output example
-```  Initial Transportation Table
+## Initial Transportation Table
+```  
 --------------------------------------------------------
          |        0        1        2        3|   Supply
 --------------------------------------------------------
