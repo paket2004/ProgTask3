@@ -25,7 +25,7 @@ Where:
 - `c` is the cost when the product is delivered from source A to destination B.
 - `s` is the the supply from the source A to destination B.
 - `d` is the demand from the source A to destination B.
-#Output example
+# Output example
 ```  Initial Transportation Table
 --------------------------------------------------------
          |        0        1        2        3|   Supply
